@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this formalization, please cite it as below."
+type: software
+title: "Formalizing α-equivalence equations"
+abstract: >-
+  A formalization in the Rocq Prover of the equivalence between four
+  definitions of α-equivalence for terms with named variables, covering
+  nameless representations and explicit-name approaches based on
+  substitution/renaming or swapping. This is the artifact of the paper with
+  the same title.
+authors:
+  - family-names: "de Moura"
+    given-names: "Flávio L. C."
+    affiliation: "Universidade de Brasília"
+    orcid: "https://orcid.org/0000-0002-9390-5751"
+  - family-names: "Sales"
+    given-names: "Luís A. M."
+    affiliation: "Universidade de Brasília"
+repository-code: "https://github.com/flaviodemoura/aeq-equations"
+license: MIT
+keywords:
+  - Rocq
+  - alpha-equivalence
+  - named syntax
+  - binding
+  - formal verification
